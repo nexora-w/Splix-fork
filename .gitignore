@@ -1,0 +1,11 @@
+deno.lock
+gameServer/out
+client/out
+serverManager/out
+temp_auto_push.bat
+.env
+deps
+serverManager/persistentStorage.json
+adminPanel/out/
+.gitignore
+temp_interactive_push.bat
